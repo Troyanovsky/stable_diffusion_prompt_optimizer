@@ -22,8 +22,10 @@ If you want to create your own lists and embeddings, you can refer to the first 
 ## Examples:
 
 Before: mountains and rivers, traditional chinese painting
+
 ![image](https://user-images.githubusercontent.com/16143851/234341674-1a813ba9-d38e-4c43-9a15-c5b22cd39763.png)
 
 
 After: mountains and rivers,traditional chinese painting,national geographic,Theophanes the Greek,a renaissance painting,arts and crafts movement
+
 ![image](https://user-images.githubusercontent.com/16143851/234341412-45bb8d02-b849-467d-be22-9334b40e26f9.png)
