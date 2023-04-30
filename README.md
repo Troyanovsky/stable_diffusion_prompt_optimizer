@@ -15,9 +15,11 @@ To do this process automatically, I did the following:
 3. Compare them with the user's existing tags to find art movements, artists, art medium, and flavors to add to the prompt.
 
 ## How to use
-To use the notebook, if you just need to optimize your prompt, you can run the second section.
+To use the notebook, first read and run the pre-req section, put the tags files from Github (https://github.com/Troyanovsky/stable_diffusion_prompt_optimizer) into your google drive.
 
-If you want to create your own lists and embeddings, you can refer to the first section.
+The first section creates embeddings as preparation. It only needs to be run once.
+
+The second section is for optimizng the prompt. Once it's run, you can just change and run the "Inference" section.
 
 ## Examples:
 
